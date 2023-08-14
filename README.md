@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🙌🏼, I'm idris ulu</h1>
-<h3 align="center">👨‍💻 Passionate programmer who writes mainly backend besides database development and frontend.I like to build the oop structure and I am part of a team that develops mvc projects in one of the biggest banks in Turkey.</h3>
+<h3 align="center">👨‍💻 Passionate programmer who writes mainly backend besides database development and frontend.I got my university education in Poznań and completed my internship in Berlin.I like to build the oop structure and I am part of a team that develops mvc projects in one of the biggest banks in Turkey.</h3>
 
 - 🔭 I’m currently working on **Java GrayMound Framework for Banking Systems**
 
