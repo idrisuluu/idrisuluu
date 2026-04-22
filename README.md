@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java GrayMound Framework for Banking Systems**
 
-- 📫 How to reach me **uluidris2@gmail.com**
+- 📫 How to reach me **idrisuludev@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
