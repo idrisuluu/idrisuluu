@@ -18,7 +18,7 @@
 
 - 🏦 Banking systems development (core backend + integrations)
 - 📡 Microservices with **Spring Boot**
-- 🧮 Complex SQL & PL/SQL (Oracle)
+- 🧮 Complex SQL & PL/SQL (Oracle & PostgreSQL)
 - 🤖 Process automation & performance optimization
 - 📈 Data analysis & reporting systems
 
@@ -33,11 +33,15 @@
 
 #### 🗄️ Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
-#### ⚙️ Tools
+#### ⚙️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### 📱 Mobile (Side Projects)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -57,9 +61,3 @@
 - 📧 idrisuludev@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/idrisulu  
 - 📸 Instagram: https://instagram.com/idrisulu  
-
----
-
-### ⚡ Fun Fact
-
-I love building systems that **run silently in the background but do critical work perfectly.**
